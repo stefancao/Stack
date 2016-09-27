@@ -1,0 +1,13 @@
+1) compile it
+	javac Main.java
+
+2) Run it
+	java Main numbers.txt		// to run the test cases with numbers
+
+	or
+
+	java Main string.txt		// to run the test cases with strings
+
+	or 
+
+	java Main postfix.txt		// to test the Reverse Polish Notation Evaluation
